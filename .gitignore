@@ -3,8 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Templates
+.idea/
+.vscode/
+
 # C extensions
 *.so
+
+# Ignore venv
+venv/
 
 # Distribution / packaging
 .Python
